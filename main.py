@@ -2,7 +2,7 @@ import streamlit as st
 from hellosign_sdk import HSClient
 
 # Ship logbook record website
-st.image('oceanopedia.png', width=150)
+st.image('./oceanopedia.png', width=150)
 st.title("Ship Logbook Record")
 st.write("This is a website to record ship logbook records.")
 
