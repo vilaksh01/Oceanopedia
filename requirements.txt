@@ -1,0 +1,3 @@
+streamlit>=1.13.0
+setuptools>=60.2.0
+hellosign-python-sdk>=4.0.0
